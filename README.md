@@ -6,13 +6,13 @@ This project is a hotel web page created using HTML and CSS. The page is designe
 ![Content](https://r.resimlink.com/pQe5T3B.png)
 
 #### Room Options And Images
-![Section-a-b](https://resimlink.com/bwcqE73-zV2r)
+![Section-a-b](https://r.resimlink.com/DB6eY8iWkOKI.png)
 
 #### Information, About Us And Contact Section
-![Section-c](https://resimlink.com/0sMAxzmSp)
+![Section-c](https://r.resimlink.com/C9Kae4pX.png)
 
 #### Responsive Designs
-![Responsive-1](https://resimlink.com/oTIWd0)
+![Responsive-1](https://r.resimlink.com/zQ-GcMAn.png)
 
-![Responsive-2](https://resimlink.com/Wetr3mQd2k)
+![Responsive-2](https://r.resimlink.com/gcoRPf.png)
 
